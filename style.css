@@ -1,35 +1,36 @@
 body {
   background-color: darkgray;
+  margin:3%  
+}
+
+.exp-header{
+  border-top: 5px solid black;
+  text-align: center;
+  border-bottom: 1px solid black;
 }
 
 h1{
-  color: blue;
+  color: brown;
   font-size: 25px;
   font-family: arial, sans-serif;
 }
 
 img{
-  width: 140px; 
+  width: 160px; 
   padding-left: 490px; 
   float: right;
   padding-left: 15px;
 }
 
 .header{
-  background-color: lightgray;
   padding-left: 10px;
-  border: 1px solid Yellow;
- 
 }
 
 h3{
   color: brown;
   padding-left: 10px;
-}
-
-div {
-  border: 1px solid yellow;
-  padding-left: 10px;
+  text-align: center;
+  border-bottom: 1px solid black;
 }
 
 h1{
