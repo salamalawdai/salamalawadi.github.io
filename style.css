@@ -3,7 +3,7 @@ body {
 }
 
 h1{
-  color: skyblue;
+  color: blue;
   font-size: 25px;
   font-family: arial, sans-serif;
 }
@@ -18,31 +18,37 @@ img{
 .header{
   background-color: lightgray;
   padding-left: 10px;
-  border: 2px solid yellow;
+  border: 1px solid Yellow;
  
 }
 
 h3{
-  color: green;
+  color: brown;
+  padding-left: 10px;
 }
 
 div {
-  border: 2px solid yellow;
+  border: 1px solid yellow;
+  padding-left: 10px;
 }
 
 h1{
-  border: 1px solid black
+  border: 1px solid black;
+  padding-left: 10px;
 }
 
 p, li{
   color: purple;
-  font family: arial, helvetica
+  font family: arial, helvetica;
+  padding-left: 10px;
 }
 
 h5{
   color: purple;
+  padding-left: 10px
 }
 
 h6{
-  color: purple
+  color: purple;
+  padding-left: 10px
 }
