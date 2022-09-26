@@ -1,0 +1,48 @@
+body {
+  background-color: darkgray;
+}
+
+h1{
+  color: skyblue;
+  font-size: 25px;
+  font-family: arial, sans-serif;
+}
+
+img{
+  width: 140px; 
+  padding-left: 490px; 
+  float: right;
+  padding-left: 15px;
+}
+
+.header{
+  background-color: lightgray;
+  padding-left: 10px;
+  border: 2px solid yellow;
+ 
+}
+
+h3{
+  color: green;
+}
+
+div {
+  border: 2px solid yellow;
+}
+
+h1{
+  border: 1px solid black
+}
+
+p, li{
+  color: purple;
+  font family: arial, helvetica
+}
+
+h5{
+  color: purple;
+}
+
+h6{
+  color: purple
+}
