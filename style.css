@@ -30,13 +30,9 @@ h3{
   color: brown;
   padding-left: 10px;
   text-align: center;
-  border-bottom: 1px solid black;
-}
+  }
 
-h1{
-  border: 1px solid black;
-  padding-left: 10px;
-}
+
 
 p, li{
   color: purple;
@@ -52,4 +48,7 @@ h5{
 h6{
   color: purple;
   padding-left: 10px
+}
+
+  background-color: lightgray;
 }
