@@ -57,6 +57,8 @@ h6{
   padding-left: 10px 
 }
 
-  background-color: lightgray;
+img {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(https://tse2.mm.bing.net/th/id/OIP.IAZoGCLL_iOsFMZVqfQVDwHaHa?pid=ImgDet&w=1400&h=1400&rs=1) 205 stretch;
 }
-
